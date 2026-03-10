@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "name": "Demo User",
+      "email": "demo@example.com",
+      "password": "demo123"
+    },
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password123"
+    }
+  ],
+  "products": [
+    {
+      "name": "MacBook Pro 16-inch",
+      "price": 2399.99,
+      "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+      "description": "Latest MacBook Pro with M2 chip, 16GB RAM, 512GB SSD. Perfect for development and creative work.",
+      "category": "Electronics",
+      "isPurchased": false
+    },
+    {
+      "name": "Sony WH-1000XM4 Headphones",
+      "price": 349.99,
+      "imageUrl": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500",
+      "description": "Industry-leading noise canceling wireless headphones with 30-hour battery life.",
+      "category": "Electronics",
+      "isPurchased": true
+    },
+    {
+      "name": "Nike Air Max 270",
+      "price": 150.00,
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+      "description": "Comfortable running shoes with Max Air unit for all-day comfort.",
+      "category": "Clothing",
+      "isPurchased": false
+    },
+    {
+      "name": "The Clean Code Book",
+      "price": 42.99,
+      "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=500",
+      "description": "A handbook of agile software craftsmanship by Robert C. Martin.",
+      "category": "Books",
+      "isPurchased": true
+    },
+    {
+      "name": "Instant Pot Duo 7-in-1",
+      "price": 89.99,
+      "imageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500",
+      "description": "Multi-functional pressure cooker, slow cooker, rice cooker, and more.",
+      "category": "Home",
+      "isPurchased": false
+    },
+    {
+      "name": "Yoga Mat Premium",
+      "price": 79.99,
+      "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500",
+      "description": "High-quality non-slip yoga mat with excellent cushioning.",
+      "category": "Sports",
+      "isPurchased": false
+    },
+    {
+      "name": "Skincare Set - Vitamin C",
+      "price": 125.00,
+      "imageUrl": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=500",
+      "description": "Complete vitamin C skincare routine with serum, moisturizer, and cleanser.",
+      "category": "Beauty",
+      "isPurchased": true
+    },
+    {
+      "name": "Mechanical Keyboard RGB",
+      "price": 159.99,
+      "imageUrl": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=500",
+      "description": "Gaming mechanical keyboard with RGB backlighting and blue switches.",
+      "category": "Electronics",
+      "isPurchased": false
+    },
+    {
+      "name": "Coffee Maker Deluxe",
+      "price": 299.99,
+      "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=500",
+      "description": "Programmable coffee maker with built-in grinder and thermal carafe.",
+      "category": "Home",
+      "isPurchased": false
+    },
+    {
+      "name": "Wireless Charging Pad",
+      "price": 39.99,
+      "imageUrl": "https://images.unsplash.com/photo-1609592806787-3d9c5d1b3b8e?w=500",
+      "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+      "category": "Electronics",
+      "isPurchased": true
+    }
+  ],
+  "notes": [
+    {
+      "title": "Research Notes",
+      "content": "Need to compare with MacBook Air M2. Check reviews on YouTube and tech blogs. Consider waiting for Black Friday deals.",
+      "productName": "MacBook Pro 16-inch"
+    },
+    {
+      "title": "Purchase Decision",
+      "content": "Bought these headphones after extensive research. Amazing noise cancellation! Perfect for work from home.",
+      "productName": "Sony WH-1000XM4 Headphones"
+    },
+    {
+      "title": "Size Check",
+      "content": "Need to verify size availability. Check Nike store for try-on. Consider getting half size up.",
+      "productName": "Nike Air Max 270"
+    },
+    {
+      "title": "Reading Progress",
+      "content": "Finished reading this book. Excellent insights on writing clean, maintainable code. Highly recommended for developers.",
+      "productName": "The Clean Code Book"
+    },
+    {
+      "title": "Recipe Ideas",
+      "content": "Want to try making yogurt, rice dishes, and meal prep. Check online recipes and cooking times.",
+      "productName": "Instant Pot Duo 7-in-1"
+    },
+    {
+      "title": "Workout Plan",
+      "content": "Planning to start daily yoga routine. Need to find good YouTube channels for beginners.",
+      "productName": "Yoga Mat Premium"
+    },
+    {
+      "title": "Skin Results",
+      "content": "Using this set for 2 months now. Skin looks brighter and more even. Will repurchase when finished.",
+      "productName": "Skincare Set - Vitamin C"
+    },
+    {
+      "title": "Gaming Setup",
+      "content": "This will complete my gaming setup. Need to check compatibility with current PC build.",
+      "productName": "Mechanical Keyboard RGB"
+    },
+    {
+      "title": "Morning Routine",
+      "content": "Want to upgrade morning coffee experience. This model has great reviews for coffee quality.",
+      "productName": "Coffee Maker Deluxe"
+    },
+    {
+      "title": "Convenience Factor",
+      "content": "Purchased for bedside table. Works great with iPhone and AirPods case. Very convenient!",
+      "productName": "Wireless Charging Pad"
+    }
+  ]
+}
